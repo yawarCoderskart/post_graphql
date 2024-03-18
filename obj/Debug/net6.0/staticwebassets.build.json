@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OdPoNAP3h/OVZ/p3n0/lB5/CpxV+bhUWqjC5BcmWrG8=",
+  "Source": "posts_graphql.api",
+  "BasePath": "_content/posts_graphql.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
